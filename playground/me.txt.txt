@@ -1,0 +1,32 @@
+{{#user}}
+Name: Revilla Aswanth
+
+Skills: 
+Django
+
+Python
+
+Java
+
+JavaScript
+
+HTML
+
+CSS
+
+Web development
+
+Project Management
+
+Cloud Firestore
+
+Firebase
+
+Android
+
+Flutter
+
+Dart
+
+Email: aswanth9885@gmail.com
+{{/user}}
